@@ -1,0 +1,28 @@
+body {
+	margin: 0.1vw 0vw;
+	padding: 0;
+	box-sizing: border-box;
+	background-color: white;
+}
+
+header {
+	background-color: black;
+	margin-bottom: 0.1vw;
+	border-radius: 0.2vw;
+	display: flex;
+	justify-content: space-between;
+	color: white
+}
+
+#header-left {
+	display: flex;
+	align-items: center;
+	margin-left: 0.75vw;
+}
+
+#header-right {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-right: 0.75vw;
+}
